@@ -1,2 +1,2 @@
 # IPCA
-Implementation of the IPCA algorithm in python as a part of intern work at IITM
+An implementation of the IPCA (Iterative-PCA) algorithm for simultaneous noise estimation and model identification given a set of linear constraints
